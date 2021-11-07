@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+#costo {
+    height: 50px;
+    width: 20%;
+    margin: 0 auto;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
